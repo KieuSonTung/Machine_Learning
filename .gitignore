@@ -1,0 +1,4 @@
+.DS_Store
+.idea/        
+machine_learning_venv/
+main.py
